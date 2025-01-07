@@ -1,0 +1,6 @@
+*.idea*
+*.DS_Store*
+*postgres-data*
+venv/
+__MACOSX/
+*downloads/
