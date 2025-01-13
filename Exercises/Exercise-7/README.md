@@ -1,4 +1,4 @@
-## Exercise 7 -Using Various PySpark Functions
+ ## Exercise 7 -Using Various PySpark Functions
 
 In this exercise we are going to have some problems to solve that will require us to 
 use various PySpark functions. You should only use functions provided in `spark.sql.functions`.
